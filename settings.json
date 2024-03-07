@@ -1,0 +1,124 @@
+{
+    "editor.accessibilitySupport": "off",
+    "workbench.activityBar.location": "top",
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.env.osx": {},
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "/bin/bash"
+        }
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.tokenColorCustomizations": {
+        "[Kanagawa]": {
+            "comments": "#ff9e3b"
+        }
+    },
+    "editor.cursorSurroundingLines": 1,
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.autoSurround": "languageDefined",
+    "editor.cursorStyle": "line-thin",
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "codeium.enableConfig": {
+        "*": true,
+        "properties": true,
+        "prisma": true,
+        "markdown": true,
+        "json": true,
+        "yaml": true,
+        "toml": true,
+        "xml": true,
+        "html": true,
+        "css": true,
+        "javascript": true,
+        "typescript": true,
+        "php": true,
+        "python": true,
+        "ruby": true,
+        "rust": true,
+        "gitignore": true
+    },
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "codeium.enableSearch": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "githubNotificationsBell.oauthToken": "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",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "editor.minimap.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.env.windows": {},
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "FiraCode Nerd Font Mono, 'Courier New', monospace",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "editor.fontVariations": false,
+    "editor.autoClosingBrackets": "languageDefined",
+    "editor.fontSize": 17,
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/medio/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.productIconTheme": "material-product-icons",
+    "editor.wordWrap": "on",
+    "terminal.integrated.copyOnSelection": true,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.startupEditor": "none",
+    "editor.linkedEditing": true,
+    "workbench.colorTheme": "Tsoding Emacs Gruber Darkest",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.detectIndentation": true,
+    "editor.fontLigatures": true,
+    "codeium.enableCodeLens": "hide_x",
+    "cmake.options.advanced": {
+        "cmake": {
+            "useCMakePresets": true,
+            "useCMakePresetsFile": true,
+            "useCMakePresetsForDebug": true,
+            "useCMakePresetsForRelease": true,
+            "useCMakePresetsForRelWithDebInfo": true,
+            "useCMakePresetsForMinSizeRel": true
+        },
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    },
+    "svelte.enable-ts-plugin": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cmake.configureOnOpen": true
+}
